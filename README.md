@@ -12,7 +12,7 @@ In this project:<br /><br />
 
 • Used a MediaPlayer/Exoplayer to display videos.<br />
 • Handled error cases in Android.<br />
-• Adedd a widget to the app experience.<br />
+• Added a widget to the app experience.<br />
 • Leveraged a third-party library.<br />
 • Used Fragments to create a responsive design that works on phones as well as tablets.<br />
 
